@@ -7,7 +7,7 @@ old_path = '/Users/macowner/news_feed/news.mp3'
 file_path = '/Users/macowner/Library/Mobile Documents/com~apple~CloudDocs/News/news.mp3'
 
 feeds = {'wsj_world': r'http://www.wsj.com/xml/rss/3_7085.xml',
-        'wsj_markets': r'http://www.wsj.com/xml/rss/3_7031.xml',
+        'wsj_markets': r'http://www.wsj.com/xml/rss/3_7031.xml', # The WSJ Markets feed is empty. Leaving it in
         'wsj_usb': r'http://www.wsj.com/xml/rss/3_7014.xml',
         'wsj_tech': r'http://www.wsj.com/xml/rss/3_7455.xml'}
 
