@@ -1,7 +1,7 @@
 import feedparser as fp
 from gtts import gTTS as gT
 import shutil
-from time import sleep
+import time
 
 old_path = '/Users/macowner/news_feed/news.mp3'
 file_path = '/Users/macowner/Library/Mobile Documents/com~apple~CloudDocs/News/news.mp3'
