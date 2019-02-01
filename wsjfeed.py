@@ -33,4 +33,4 @@ def news_creator():
 while True:
     news_creator()
     print('Created news file.')
-    time.sleep(60)
+    time.sleep(3600)
